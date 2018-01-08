@@ -3,4 +3,6 @@
 
 Greetings, Java Hipster!
 
+This is the [Chocolatey](https://chocolatey.org/) package for JHipster.
+
 Full documentation and information is available on our website at [http://www.jhipster.tech/](http://www.jhipster.tech/).
