@@ -9,11 +9,11 @@
     <owners>Julien Dubois</owners>
     <summary>JHipster is a development platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices.</summary>
     <description>
-Full documentation and information is available on our website at [http://www.jhipster.tech/](http://www.jhipster.tech/).
+Full documentation and information is available on our website at [https://www.jhipster.tech/](https://www.jhipster.tech/).
     </description>
-    <projectUrl>http://www.jhipster.tech/</projectUrl>
+    <projectUrl>https://www.jhipster.tech/</projectUrl>
     <projectSourceUrl>https://github.com/jhipster/generator-jhipster</projectSourceUrl>
-    <docsUrl>http://www.jhipster.tech/</docsUrl>
+    <docsUrl>https://www.jhipster.tech/</docsUrl>
     <bugTrackerUrl>https://github.com/jhipster/generator-jhipster/issues</bugTrackerUrl>
     <packageSourceUrl>https://github.com/jhipster/chocolatey-package</packageSourceUrl>
     <tags>nodejs node angular react java spring web foss cross-platform cli</tags>
@@ -21,7 +21,7 @@ Full documentation and information is available on our website at [http://www.jh
     <copyright>© The JHipster team</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/jhipster/jhipster.github.io/v4.14.2/images/logo/logo-jhipster.png</iconUrl>
-    <releaseNotes>http://www.jhipster.tech/releases/</releaseNotes>
+    <releaseNotes>https://www.jhipster.tech/releases/</releaseNotes>
     <dependencies>
       <dependency id="nodejs" version="9.11.1" />
       <dependency id="yarn" version="1.5.1" />
