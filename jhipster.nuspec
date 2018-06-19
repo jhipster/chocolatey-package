@@ -4,7 +4,7 @@
   <metadata>
     <id>jhipster</id>
     <title>JHipster</title>
-    <version>4.14.4</version>
+    <version>4.14.5</version>
     <authors>The JHipster team</authors>
     <owners>Julien Dubois</owners>
     <summary>JHipster is a development platform to generate, develop and deploy Spring Boot + Angular Web applications and Spring microservices.</summary>
@@ -20,13 +20,13 @@ Full documentation and information is available on our website at [https://www.j
     <licenseUrl>https://github.com/jhipster/generator-jhipster/blob/master/LICENSE.txt</licenseUrl>
     <copyright>© The JHipster team</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/jhipster/jhipster.github.io/v4.14.4/images/logo/logo-jhipster.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/jhipster/jhipster.github.io/v4.14.5/images/logo/logo-jhipster.png</iconUrl>
     <releaseNotes>https://www.jhipster.tech/releases/</releaseNotes>
     <dependencies>
-      <dependency id="nodejs" version="9.11.1" />
-      <dependency id="yarn" version="1.5.1" />
-      <dependency id="jdk8" version="8.0.162" />
-      <dependency id="git" version="2.17.0" />
+      <dependency id="nodejs" version="10.4.1" />
+      <dependency id="yarn" version="1.7.0" />
+      <dependency id="jdk8" version="8.0.172" />
+      <dependency id="git" version="2.17.1.2" />
       <dependency id="yo" version="2.0.1" />
     </dependencies>
   </metadata>
