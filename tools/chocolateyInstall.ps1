@@ -1,5 +1,5 @@
 ﻿Update-SessionEnvironment
 
-$version = '5.1.0'
+$version = '5.2.0'
 
 yarn global add generator-jhipster@$version
