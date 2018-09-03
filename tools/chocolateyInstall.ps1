@@ -1,5 +1,5 @@
 ﻿Update-SessionEnvironment
 
-$version = '5.2.1'
+$version = '5.3.0'
 
-yarn global add generator-jhipster@$version
+npm install -g generator-jhipster@$version

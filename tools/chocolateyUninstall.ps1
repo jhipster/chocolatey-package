@@ -1,1 +1,1 @@
-yarn global remove generator-jhipster
+npm uninstall -g generator-jhipster
