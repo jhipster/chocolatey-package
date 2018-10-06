@@ -25,7 +25,7 @@ Full documentation and information is available on our website at [https://www.j
     <dependencies>
       <dependency id="nodejs-lts" version="8.12.0" />
       <dependency id="jdk8" version="8.0.181" />
-      <dependency id="git" version="2.18.0" />
+      <dependency id="git" version="2.19.1" />
       <dependency id="yo" version="2.0.5" />
     </dependencies>
   </metadata>
