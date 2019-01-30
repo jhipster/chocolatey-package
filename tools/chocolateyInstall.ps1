@@ -1,5 +1,5 @@
 ﻿Update-SessionEnvironment
 
-$version = '5.7.2'
+$version = '5.8.1'
 
 npm install -g generator-jhipster@$version
