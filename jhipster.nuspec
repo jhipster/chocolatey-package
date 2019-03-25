@@ -23,7 +23,7 @@ Full documentation and information is available on our website at [https://www.j
     <iconUrl>https://cdn.rawgit.com/jhipster/jhipster.github.io/v5.8.2/images/logo/logo-jhipster.png</iconUrl>
     <releaseNotes>https://www.jhipster.tech/releases/</releaseNotes>
     <dependencies>
-      <dependency id="nodejs-lts" version="10.15.0" />
+      <dependency id="nodejs-lts" version="10.15.3" />
       <dependency id="jdk8" version="8.0.181" />
       <dependency id="git" version="2.19.1" />
       <dependency id="yo" version="2.0.5" />
