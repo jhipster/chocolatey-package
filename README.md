@@ -1,6 +1,4 @@
-﻿# <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/master/images/logo/logo-jhipster2x.png"/>
-
-__[DEPRECATED] This Chocolatey package has been deprecated __
+# [DEPRECATED] This Chocolatey package has been deprecated
 
 While we love Chocolatey and find it hugely useful, for JHipster this mostly consisted of automating an `npm install -g generator-jhipster` so we found it mostly confused our new users.
 
