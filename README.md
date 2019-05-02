@@ -1,7 +1,9 @@
 ﻿# <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/master/images/logo/logo-jhipster2x.png"/>
 
-Greetings, Java Hipster!
+__[DEPRECATED] This Chocolatey package has been deprecated __
 
-This is the [Chocolatey](https://chocolatey.org/) package for JHipster. You can find this package published on the official Chocolatey gallery at [https://chocolatey.org/packages/jhipster](https://chocolatey.org/packages/jhipster).
+While we love Chocolatey and find it hugely useful, for JHipster this mostly consisted of automating an `npm install -g generator-jhipster` so we found it mostly confused our new users.
+
+Older builds have been published on the official Chocolatey gallery at [https://chocolatey.org/packages/jhipster](https://chocolatey.org/packages/jhipster).
 
 Full documentation and information is available on our website at [https://www.jhipster.tech/](https://www.jhipster.tech/).
